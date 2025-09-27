@@ -1,6 +1,6 @@
 {
-  "version": "v8.25.54 (patches 5.40.0)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/Duy-Thanh/Revanced-extended-magisk/releases/download/5/music-revanced-magisk-v8.25.54-arm-v7a.zip",
+  "version": "v8.25.54 (patches 5.41.0)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/Duy-Thanh/Revanced-extended-magisk/releases/download/6/music-revanced-magisk-v8.25.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Duy-Thanh/Revanced-extended-magisk/update/build.md"
 }
